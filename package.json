@@ -1,0 +1,12 @@
+{
+  "name": "price-feed-oracle-hub",
+  "version": "1.0.0",
+  "description": "Chainlink and Pyth Oracle Integration",
+  "dependencies": {
+    "@chainlink/contracts": "^1.1.0",
+    "@pythnetwork/pyth-sdk-solidity": "^2.2.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
